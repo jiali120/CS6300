@@ -6,6 +6,7 @@
 
 ### 2.	When choosing to enter current job details, a user will: a.	Be shown a user interface to enter (if it is the first time) or edit all the details of their current job. b.	Be able to either save the job details or cancel and exit without saving, returning in both cases to the main menu.
 > In the CurrentJobDetails class, I have set up the attributes as per the job requirements, such as title (String), company (String), location (String), costOfLocation (Float), etc. Additionally, in the operations section, I have included enterDetails, editDetails, saveDetails, and cancelAndExit to facilitate manipulating functionality.
+> 
 > ![image](https://github.com/jiali120/CS6300/assets/60761935/80cf2776-9b2e-4a85-97ff-bf8186f61eb4)
 
 ### 3.	When choosing to enter job offers, a user will: a. Be shown a user interface to enter all the details of the offer, which are the same ones listed above for the current job. b.	Be able to either save the job offer details or cancel. c.	Be able to (1) enter another offer, (2) return to the main menu, or (3) compare the offer (if they saved it) with the current job details (if present).
@@ -25,6 +26,7 @@
 
 ### Additional information
 > I also designed the Customer class because I realized that the user needs to operate the save function; by defining the Customer class, it implies that users can save the information under their own account. Adding the Customer class makes the entire UML design more comprehensive.
+> 
 > ![image](https://github.com/jiali120/CS6300/assets/60761935/373df829-21b7-42f5-bbe6-e693e8059d96)
 
 
