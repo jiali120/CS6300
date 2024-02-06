@@ -24,7 +24,7 @@
 ### 7.	The user interface must be intuitive and responsive.
 > In the UML, the ComparisonSettings has been defined as an interface to encapsulate the customization aspects of how job offers are compared within the application.
 
-### Additional information
+### 8.  Additional information
 > I also designed the Customer class because I realized that the user needs to operate the save function; by defining the Customer class, it implies that users can save the information under their own account. Adding the Customer class makes the entire UML design more comprehensive.
 > 
 > ![image](https://github.com/jiali120/CS6300/assets/60761935/373df829-21b7-42f5-bbe6-e693e8059d96)
